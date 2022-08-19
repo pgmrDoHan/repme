@@ -5,3 +5,5 @@ server/node_modules
 server/.env
 makefile
 notion2html/node_modules
+.temp
+database/.$Schema.drawio.png.bkp
