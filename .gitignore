@@ -1,8 +1,4 @@
 .vscode
-client/.next
-client/node_modules
-server/node_modules
-server/.env
 makefile
 notion2html/node_modules
 .temp
