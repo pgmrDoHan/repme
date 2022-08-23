@@ -1,5 +1,4 @@
 .vscode
-makefile
-notion2html/node_modules
 .temp
-database/.$Schema.drawio.png.bkp
+server/node_modules
+client/node_modules

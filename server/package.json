@@ -1,0 +1,26 @@
+{
+	"name": "repme-server",
+	"version": "0.0.0",
+	"description": "RepMe API Server",
+	"homepage": "https://github.com/prgmrDoHan/repme",
+	"author": {
+		"name": "prgmrDoHan",
+		"email": "dohan.labs@gmail.com",
+		"url": "https://github.com/prgmrDoHan"
+	},
+	"main": "./src/index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/prgmrDoHan/repme"
+	},
+	"scripts": {
+		"start": "node src/index.js",
+		"start:dev": "nodemon src/index.js"
+	},
+	"dependencies": {
+		"express.js": "^1.0.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.19"
+	}
+}
